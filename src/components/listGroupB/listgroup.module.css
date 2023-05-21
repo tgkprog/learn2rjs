@@ -1,0 +1,26 @@
+.body{    font-family: 'MuseoSans', sans-serif}
+.lstGrp{
+    max-width: 700px;
+    width : 50%;
+    min-width: 300px;
+    padding-left: 15px;
+    background-color: burlywood;
+    shape-margin: 30%;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-block-end: 20%;
+}
+
+.lstItem{
+    background-color: lightgray;
+    font-size: +1;
+    color: #282828;
+    font-family: 'MuseoSans', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.active{
+    color :calc(80,90,200)
+}
